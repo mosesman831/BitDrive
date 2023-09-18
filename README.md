@@ -23,6 +23,12 @@ Securing you.
 
   <p>To run the application, navigate to the directory containing the Python file and run it using a Python interpreter. The application will display a window with a password entry widget and a submit button. After the user submits a password, the application will display another window with buttons to encrypt or decrypt the E:\ drive.</p>
 
+<a href="https://github.com/mosesman831/BitDrive/releases" target="_blank">
+  <button>
+    Download Now
+  </button>
+</a>
+
 
 </body>
 </html>
