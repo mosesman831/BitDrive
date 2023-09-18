@@ -1,14 +1,14 @@
+#BitDrive
+Securing you.
+
 <!DOCTYPE html>
 <html>
 <head>
-  <style>
-    @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
-    body {
-      font-family: 'Montserrat', sans-serif;
-    }
-  </style>
 </head>
 <body>
+    <p align="center">
+    <img src="https://raw.githubusercontent.com/mosesman831/BitDrive/main/assets/img/urn_aaid_sc_EU_cd7aec7c-f435-495f-bc49-1804e9bdd546.png">
+  </p>
   <h1>BitDrive and BitDrive GUI</h1>
 
   <h2>BitDrive</h2>
@@ -23,8 +23,6 @@
 
   <p>To run the application, navigate to the directory containing the Python file and run it using a Python interpreter. The application will display a window with a password entry widget and a submit button. After the user submits a password, the application will display another window with buttons to encrypt or decrypt the E:\ drive.</p>
 
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/mosesman831/BitDrive/main/assets/img/urn_aaid_sc_EU_cd7aec7c-f435-495f-bc49-1804e9bdd546.png">
-  </p>
+
 </body>
 </html>
